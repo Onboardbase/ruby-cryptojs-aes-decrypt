@@ -5,7 +5,7 @@ require File.expand_path('lib/decrypt/version', __dir__)
 
 Gem::Specification.new do |spec|
   spec.name          = 'cryptojs-aes-decrypt'
-  spec.version       = Cryptojs::Aes::Decrypt::VERSION
+  spec.version       = CryptojsAesDecrypt::VERSION
   spec.authors       = ['Aleem Isiaka']
   spec.email         = ['aleemisiaka@gmail.com']
 
