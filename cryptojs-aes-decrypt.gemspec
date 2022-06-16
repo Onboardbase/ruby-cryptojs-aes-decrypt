@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.extra_rdoc_files = ['README.md']
   spec.summary       = 'Decrypt Cryptojs AES Ciphers'
   spec.description   = 'Decrypt Cryptojs AES Ciphers'
-  spec.homepage      = 'https://github.com/limistah/ruby-cryptojs-aes-decrypt'
+  spec.homepage      = 'https://github.com/deepfence/SecretScanner'
   spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -21,8 +21,8 @@ Gem::Specification.new do |spec|
     spec.metadata['allowed_push_host'] = 'https://rubygems.org'
 
     spec.metadata['homepage_uri'] = spec.homepage
-    spec.metadata['source_code_uri'] = 'https://github.com/limistah/ruby-cryptojs-aes-decrypt'
-    spec.metadata['changelog_uri'] = 'https://github.com/limistah/ruby-cryptojs-aes-decrypt/CHANGELOG.MD'
+    spec.metadata['source_code_uri'] = 'https://github.com/deepfence/SecretScanner'
+    spec.metadata['changelog_uri'] = 'https://github.com/deepfence/SecretScanner/CHANGELOG.MD'
   else
     raise 'RubyGems 2.0 or newer is required to protect against ' \
       'public gem pushes.'
