@@ -27,7 +27,6 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.17)
-  cryptojs-aes-decrypt!
   rake (~> 10.0)
   rspec (~> 3.0)
 
